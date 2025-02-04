@@ -1,5 +1,5 @@
 # Deep Learning - Tensor Flow Potato Leaf Images Disease Classification Detection
-![https://github.com/RickyDoan/DL-TF-Potato-Leaf-Images-Classification-Prediction/blob/main/leaf-potato-short-20s.gif]()
+![Uploading reccomend ecommerce products.gif…](https://github.com/RickyDoan/DL-TF-Potato-Leaf-Images-Classification-Prediction/blob/main/leaf-potato-short-20s.gif)
 
 This project aims to detect diseases in tomato leaves using a deep learning model. It utilizes a Convolutional Neural Network (CNN) trained on a dataset of tomato leaf images with various diseases.
 
